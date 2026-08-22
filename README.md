@@ -39,6 +39,28 @@ I specialize in AI-enabled support operations that combine people, processes, an
 - Process Improvement
 - Stakeholder Management
 
+## Featured Certifications   
+
+🎓 Microsoft Certifications                                                                                                                                                                                               🎓 AWS Certifications                                                                                                                                                                                                       🎓 Google Cloud Certifications
+🎓 Cisco Certifications
+🎓 IBM Certifications
+🎓 PMI Certifications
+🎓 ISC2 Certifications
+🎓 HubSpot Certifications
+🎓 Anthropic AI Certifications
+🎓 Databricks Certifications
+
+Focused on AI, Cloud Computing, Cybersecurity, Customer Operations, IT Service Management (ITSM), Digital Transformation, and Automation.
+
+## Skills
+Customer Success | Customer Support Operations | ITSM | SaaS 
+AI & Automation | Customer Experience | Service Delivery
+Incident Management | Problem Management | Change Management
+Business Analysis | CRM | Knowledge Management
+Solutions Engineering | Technical Account Management
+Digital Transformation | Process Improvement
+| Stakeholder Management
+
 ## Key Achievements
 
 ✅ Improved SLA performance, incident response, and resolution times through process optimization
