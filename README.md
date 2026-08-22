@@ -1,7 +1,10 @@
 <p align="center"> 
 Professional GitHub Banner.png </p>
 
-# Hi there, I'm Sulaman Danish Mohammed 👋
+# Sulaman Danish Mohammed
+Senior Customer Support Specialist | Customer Success | ITSM | AI-Driven Support Operations
+
+Building scalable customer support operations through automation, operational excellence, and customer-centric solutions.
 
 ## About Me 
 
