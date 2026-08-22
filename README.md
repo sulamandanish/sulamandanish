@@ -3,7 +3,7 @@ https://github.com/sulamandanish/sulamandanish/blob/main/Professional%20GitHub%2
 </p>
 
 # Sulaman Danish Mohammed
-Senior Customer Support Specialist | Customer Success | ITSM | AI-Driven Support Operations
+Senior Customer Success & Support Operations Professional | ITSM | AI-Driven Customer Experience | SaaS | Solutions Engineering
 
 Building scalable customer support operations through automation, operational excellence, and customer-centric solutions.
 
