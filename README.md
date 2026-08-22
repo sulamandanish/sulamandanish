@@ -1,3 +1,6 @@
+<p align="center"> 
+Professional GitHub Banner.png </p>
+
 # Hi there, I'm Sulaman Danish Mohammed 👋
 
 ## About Me 
