@@ -1,5 +1,6 @@
 <p align="center"> 
-Professional GitHub Banner.png </p>
+https://github.com/sulamandanish/sulamandanish/blob/main/Professional%20GitHub%20Banner.png?raw=true
+</p>
 
 # Sulaman Danish Mohammed
 Senior Customer Support Specialist | Customer Success | ITSM | AI-Driven Support Operations
